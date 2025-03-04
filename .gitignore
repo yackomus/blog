@@ -1,0 +1,13 @@
+.github/
+
+.DS_Store
+._.DS_Store
+/**/.DS_Store
+/**/._.DS_Store
+
+node_modules/
+.vitepress/cache
+vercel.json
+docs/
+
+**/.ipynb_checkpoints
