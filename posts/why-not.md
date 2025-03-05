@@ -6,6 +6,6 @@ gravatar: e0696456a74ae33a0d5cc8961ee7c122b29fc317a4de601d2e34afcec822523d
 twitter: '@yackomus'
 ---
 
-Resposta: por que não?
+Por que não? 🙂
 
 ---
