@@ -44,7 +44,7 @@ const { page, frontmatter } = useData()
             href="https://yackomus.com"
             target="_blank"
             rel="noopener"
-            >Yackomus.com →</a
+            >yackomus.com →</a
           >
         </div>
       </nav>

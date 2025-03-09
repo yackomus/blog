@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 import { genFeed } from './genFeed.js'
 
 export default defineConfig({
-  title: 'Brasília',
-  description: 'Comentários amostrais que demonstram a rotina da qual os burocratas brasileiros participam para tomar um cafezinho, cantar palavras vazias e trair a nação.',
+  title: 'Blog',
+  description: 'Integração e comentários sobre os dados e informações extraídos de Portais Oficiais do Governo Federal, Institutos e Instituições Oficiais, Câmara Federal e Senado Federal.',
   cleanUrls: true,
   outDir: './docs',
   head: [

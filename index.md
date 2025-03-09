@@ -1,5 +1,5 @@
 ---
 title: Blog
-subtext: Comentários amostrais sobre resultados do descaso dos burocratas de Brasília... consciências vendidas.
+subtext: Integração e comentários sobre os dados e informações extraídos de Portais Oficiais do Governo Federal, Institutos e Instituições Oficiais, Câmara Federal e Senado Federal.
 index: true
 ---

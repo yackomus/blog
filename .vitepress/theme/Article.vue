@@ -65,7 +65,7 @@ const prevPost = computed(() => posts[findCurrentIndex() + 1])
           </div>
         </div>
         <div class="pt-8">
-          <a class="link" href="/">← Blog</a>
+          <a class="link" href="/">← blog</a>
         </div>
       </footer>
     </div>
